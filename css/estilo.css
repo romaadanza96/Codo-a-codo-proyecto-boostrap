@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+span{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 15px;
+}
+.nav-gob{
+    background-color: #353A40;
+}
+.nav-link{
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: white !important;   
+}
+.banner{
+height: 85vh;
+background-image: url(../img/ba1-dark.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.bsascontainer-col2{
+    background-color: #353A40;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parrafo{
+float: right;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+.cuadros{
+    border: 1px solid grey;
+}
+.footer{
+    background-color: #1B3846;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.btn-conoce{
+    background-color: #353A40;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid white;
+}
+.js{
+    background-color: #F0B904 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-weight: bold !important;
+    color: black !important;
+    border:0 !important;    
+    font-size: 15px !important;
+}
+.rc{
+    background-color: #4BC3D7 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-weight: bold !important;
+    color: white !important;
+    border:0 !important;
+    font-size: 15px !important;
+}
